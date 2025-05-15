@@ -1,5 +1,11 @@
 .container-calculatrice{
-    border: 1px, solid, black;
     border-radius: 10px;
     padding: 2rem;
+    background-color: rgb(228, 208, 246);
+    width: 8rem;
+}
+
+.container-calculatrice input {
+    box-sizing: border-box;
+    margin: 0;
 }
