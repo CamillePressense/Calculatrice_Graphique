@@ -1,3 +1,10 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:2rem;
+}
+
 .container-calculatrice{
     border-radius: 10px;
     padding: 2rem;
@@ -8,4 +15,8 @@
 .container-calculatrice input {
     box-sizing: border-box;
     margin: 0;
+}
+
+#plus, #moins, #fois, #divise, #egal, #reset {
+    background-color: rgb(211, 206, 206);
 }
