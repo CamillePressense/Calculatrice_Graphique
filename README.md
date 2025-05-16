@@ -25,5 +25,7 @@ On ajoute des parenthèses ?Bootstrap
 
 
 MON RENDU: 
+
+
 ![image](https://github.com/user-attachments/assets/24d694b5-d4dd-48d6-9b9e-992de9619395)
 
